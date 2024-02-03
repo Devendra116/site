@@ -1,9 +1,7 @@
 ---
-date: '2'
+date: '2022-05-01'
 title: 'YogaGuru'
-cover: './yogaguru.png'
 github: 'https://github.com/Devendra116/YogaGuru'
-cta: ''
 tech:
   - Python
   - Mediapipe
