@@ -9,6 +9,7 @@ tech:
   - NumPy
   - Scikit-learn
   - Streamlit
+showInProjects: False
 ---
 
 A simple demonstration of using machine learning ability to produce the accuarcy of yoga practicener based on the body position and angle made by body joints.
