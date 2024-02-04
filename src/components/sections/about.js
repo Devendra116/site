@@ -135,13 +135,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am a Software Engineer & Data Enthusiast who is passionate to work in the domain of
-              Data Science and Blockchain. I have a background in Information Technology and love
-              mathematics, and I have a strong interest in the intersection of technology and its
-              real world usecase. I am currently working as a software engineer at startup named
-              Invex building a DeFi Application.
+              Hello! My name is Devendra Chauhan, and I enjoy tinkering with software to build
+              things that make sense in their existence. Whether it's a solution to critical
+              problems or a random joke generator to provide a momentary escape, I find fulfillment
+              in the creative process.
             </p>
-            <p>In my free time I write Blogs, read Books and enjoy eating Sweets</p>
+            <p>
+              I am a lighthearted guy with a strong passion for Blockchain and Decentralization, and
+              I have experience working with startups on projects related to DeFi, P2P OrderBook
+              Dex, NFTs, and more.
+            </p>
+            <p>
+              In my free time, you will find me crafting dummy projects, bringing my thoughts to
+              reality. Additionally, I enjoy reading about Philosophy and exploring the web for new
+              technology.
+            </p>
+            <p>I occasionally write at Musing Ledger</p>
 
             {/* <p>
               {' '}
