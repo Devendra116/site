@@ -143,14 +143,17 @@ const About = () => {
             <p>
               I am a lighthearted guy with a strong passion for Blockchain and Decentralization, and
               I have experience working with startups on projects related to DeFi, P2P OrderBook
-              Dex, NFTs, and more.
+              Dex, NFTs, and more on <a href="https://near.org/">Near Protocol</a> &{' '}
+              <a href="https://cosmos.network/">Cosmos</a> Blockchain.
             </p>
             <p>
               In my free time, you will find me crafting dummy projects, bringing my thoughts to
               reality. Additionally, I enjoy reading about Philosophy and exploring the web for new
               technology.
             </p>
-            <p>I occasionally write at Musing Ledger</p>
+            <p>
+              I occasionally write at <a href="https://musingledger.substack.com/">Musing Ledger</a>
+            </p>
 
             {/* <p>
               {' '}
