@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/personal-site',
+  pathPrefix: '/devendra116.github.io',
   siteMetadata: {
     title: 'Devendra Chauhan',
     description:
       'Experienced software engineer specializing in seamless backend and smart contract development',
-    siteUrl: 'https://github.com/Devendra116', // No trailing slash allowed!
+    siteUrl: 'https://devendra116.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Devendra_116',
   },
